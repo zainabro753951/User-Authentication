@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-theme-purple: #5f15a1;
+  --color-theme-blue: #0058dd;
+  --color-theme-orange: #F26B0F;
+  --color-theme-golden: #ffd43b;
+  --font-family-poppins: "Poppins", serif;
+  --font-family-jost: "Jost", sans-serif;
+  --breakpoint-xs: 300px;
+}
+
